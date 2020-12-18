@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "808386341998",
+    "project_id": "device-monitor-flutter",
+    "storage_bucket": "device-monitor-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808386341998:android:0926ba23a4135585d54a7f",
+        "android_client_info": {
+          "package_name": "com.databytesoft.device_monitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808386341998-oftekhikj66l3gfsf1sgakm03qtq62c9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.databytesoft.device_monitor",
+            "certificate_hash": "81811f5d99d4c582e03841276a8c6258e90c5e5d"
+          }
+        },
+        {
+          "client_id": "808386341998-0e8s58dhm436sk24f8o3h8ab8pf1fs6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfWDHnzRQSLFDmeY-VO19vv-A-2Qy1CdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808386341998-0e8s58dhm436sk24f8o3h8ab8pf1fs6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -2,7 +2,7 @@ import 'package:device_monitor/Themes/themes.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart' as g;
 
-import './Pages/Home/home.dart';
+import 'Pages/Authentication/signin.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
@@ -12,7 +12,7 @@ void main() {
       theme: themeData,
       popGesture: true,
       title: 'Devices Monitor',
-      home: MyHomePage(title: 'Devices Monitor'),
+      home: SigninPage(), //MyHomePage(title: 'Devices Monitor'),
     ),
   );
 }
